@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.container{
+    width: 40%;
+    height: 72vh;
+    background-color: rgb(28, 28, 28);
+    margin-left: 35rem;
+    margin-top: 8rem;
+    border-radius: 20px;
+}
+.inputbox{
+    width: 45rem;
+    height: 10rem;
+    font-size: 90px;
+    margin-left: 20PX;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    background-color: grey;
+    padding: 10px;
+    user-select: none;
+}
+.calc{
+    width: 10rem;
+    height: 5rem;
+    margin-left: 22px;
+    margin-top: 15px;
+}
+#C{
+    background-color: rgb(248, 84, 24);
+    border-radius: 30px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+#cross{
+    background-color: rgb(248, 84, 24);
+    border-radius: 30px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+#percentage{
+    background-color: rgb(248, 84, 24);
+    border-radius: 30px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+#divide{
+    background-color: rgb(248, 84, 24);
+    border-radius: 30px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+#multiply{
+    background-color: rgb(248, 84, 24);
+    border-radius: 30px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+
+#minus{
+    background-color: rgb(248, 84, 24);
+    border-radius: 30px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}#plus{
+    background-color: rgb(248, 84, 24);
+    border-radius: 30px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+#equal{
+    background-color: rgb(248, 84, 24);
+    border-radius: 30px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+#seven{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}
+#eigth{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#nine{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#four{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#five{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#six{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#one{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#two{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#three{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#plus2{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#zero{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}#point{
+    background-color: rgb(156, 154, 154);
+    font-size: 50px;
+    border-radius: 20px;
+    border: none;
+}
